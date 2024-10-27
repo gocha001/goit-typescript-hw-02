@@ -1,0 +1,16 @@
+.btnScroll {
+  border: none;
+  position: fixed;
+  right: 0;
+  bottom: 10px;
+}
+
+.iconScroll {
+  position: fixed;
+  right: 0;
+  bottom: 10px;
+  width: 40px;
+  height: 40px;
+  fill: blue;
+  background-color: rgb(208, 208, 218);
+}

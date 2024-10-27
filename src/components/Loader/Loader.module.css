@@ -1,0 +1,8 @@
+.loader {
+  &RotatingLines {
+    visibility: visible;
+    height: 96px;
+    width: 96px;
+    color: green;
+  }
+}
